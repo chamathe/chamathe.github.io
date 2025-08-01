@@ -1,11 +1,27 @@
 ---
-title: "chamathe.github.io"
+title: "Chamath Ekanayke"                               
+subtitle: "PhD Researcher"
+# `prof.jpeg` photo by Jan Tinneberg on https://unsplash.com
+image: prof.jpeg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/chamathe
+    - icon: linkedin                                                                                                                                                                                                                                                                                                                              
+      text: LinkedIn
+      href: https://linkedin.com
 ---
 
-This is a Quarto website.
+{{<lipsum 1>}}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Educations
+University of XYZ, City \| Location \| Sept 20XX - June 20XX
 
-```{r}
-1 + 1
-```
+## Experience
+
+## Experience
+
+Workplace | Job Title | April 20XX – present

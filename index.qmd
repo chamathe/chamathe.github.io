@@ -1,7 +1,6 @@
 ---
 title: "Chamath Ekanayke"                               
 subtitle: "PhD Researcher"
-# `prof.jpeg` photo by Jan Tinneberg on https://unsplash.com
 image: prof.jpeg
 about: # https://quarto.org/docs/websites/website-about.html
   template: trestles
@@ -15,13 +14,20 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://www.linkedin.com/in/chamath-ekanayake/
 ---
 
-{{<lipsum 1>}}
+I am a PhD candidate in Edinburgh Napier University studying ESG, sustainability and digital transformation. With specialized knowledge in Supply chain, transportation and information systems. I am contributing my PhD to make the world a sustainable place by addressing to real world problems using innovative sustainable solutions.
 
 ## Educations
-University of XYZ, City \| Location \| Sept 20XX - June 20XX
+<b>PhD Candidate</b><br>
+  Edinburgh Napier University<br>
+  United Kingdom
+
+<b>Msc Computing and Information Systems</b><br>
+University of Greenwich<br>
+United Kingdom
+
+<b>Bsc Hons Transport and Logistics Management</b><br>
+University of Moratuwa<br>
+Sri Lanka
 
 ## Experience
 
-## Experience
-
-Workplace | Job Title | April 20XX – present

@@ -10,11 +10,12 @@
 $theme-white : white;
 $theme-red : darkred;
 $theme-black: black;
+$theme-dgrey : #48494B;
 
 /* Colors */
 $body-bg: $theme-white;
-$body-color: $theme-red;
-$link-color:$theme-black;
+$body-color: $theme-dgrey;
+$link-color:$theme-red;
 
 /* Fonts */
 $font-family-sans-serif: "Poppins", san-serif;
@@ -31,10 +32,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-#quarto-header {
-  color: blue;
-}
-
 span.navbar-title {
   transition-duration: 0.5s ;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 
@@ -44,7 +41,23 @@ span.navbar-title {
     }
   }
  
- #about-link {
-   color: gray;
- }
+.about-links * {
+   color: $theme-dgrey;
+} 
+.quarto-title {
+  color: $theme-red;
+}
+
+p {
+  font-size: 15px;
+}
+
+.content {
+  max-width: none; /* Remove any max-width limit if applied */
+}
+
+#quarto-header {
+  background-color : green;
+}
+
 

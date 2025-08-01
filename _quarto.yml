@@ -13,8 +13,14 @@ website:
       - href: blog/index.qmd
       - href: projects/index.qmd
     tools:
+      - icon : bi bi-envelope-at-fill
+        href : mailto:chamath.ekanayake@napier.ac.uk
       - icon : github
         href : https://github.com/chamathe
+      - icon : linkedin
+        href : https://www.linkedin.com/in/chamath-ekanayake/
+      - icon : bi bi-mortarboard-fill
+        href : https://scholar.google.com/citations?user=WGyRK1UAAAAJ&hl=en
         
 
 format:

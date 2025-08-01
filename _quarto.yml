@@ -16,10 +16,6 @@ website:
       - icon : github
         href : https://github.com/chamathe
         
-        
-  sidebar: 
-    contents: auto
-    style: docked
 
 format:
   html:

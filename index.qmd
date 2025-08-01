@@ -1,6 +1,7 @@
 ---
 title: "Chamath Ekanayke"                               
 subtitle: "PhD Researcher"
+# `prof.jpeg` photo by Jan Tinneberg on https://unsplash.com
 image: prof.jpeg
 about: # https://quarto.org/docs/websites/website-about.html
   template: trestles
@@ -9,10 +10,9 @@ about: # https://quarto.org/docs/websites/website-about.html
     - icon: github
       text: Github
       href: https://github.com/chamathe
-    - icon: linkedin
-      href: https://www.linkedin.com/in/chamath-ekanayake/                                                                                                                                                                                                                                                                                                                             
+    - icon: linkedin                                                       
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/chamath-ekanayake/
 ---
 
 {{<lipsum 1>}}

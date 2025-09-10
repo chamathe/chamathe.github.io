@@ -1,7 +1,7 @@
 ---
 title: "Chamath Ekanayke"                               
 subtitle: "PhD Researcher"
-image: prof.jpeg
+image: prof1.jpg
 about: # https://quarto.org/docs/websites/website-about.html
   template: trestles
   image-shape: round

@@ -16,7 +16,7 @@ about: # https://quarto.org/docs/websites/website-about.html
 
 I am a PhD candidate in Edinburgh Napier University studying ESG, sustainability and digital transformation. With specialized knowledge in Supply chain, transportation and information systems. I am contributing my PhD to make the world a sustainable place by addressing to real world problems using innovative sustainable solutions.
 
-## Educations
+## Education
 <b>PhD Candidate</b><br>
   Edinburgh Napier University<br>
   United Kingdom
